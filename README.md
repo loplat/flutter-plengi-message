@@ -5,7 +5,7 @@ loplat plengi message SDK guide - flutter plugin DEMO example
 **데모 앱을 테스트 하려면 Firebase 프로젝트의 google-service.json / GoogleService-Info.plist 파일을 업데이트하고 패키지명/번들id 를 수정해야 합니다.**
 
 ## Supported platforms
-* Flutter Android(plengi-ai-message v2.1.1.9.6)
+* Flutter Android(plengi-ai-message v2.1.2.1)
 * Flutter iOS(MiniPlengi v1.5.6-rc1)
 
 |             | Android | iOS   |
@@ -94,7 +94,7 @@ allprojects {
 plugin이 정상적으로 동작하기 위해서 반드시 아래 지정된 버전만을 사용해야 합니다.
 
 ```groovy
-implementation 'com.loplat:placeengine:2.1.2.0'
+implementation 'com.loplat:placeengine:2.1.2.1'
 ```
 <br>
 
