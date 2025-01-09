@@ -94,7 +94,7 @@ allprojects {
 plugin이 정상적으로 동작하기 위해서 반드시 아래 지정된 버전만을 사용해야 합니다.
 
 ```groovy
-implementation 'com.loplat:placeengine-ai-message:2.1.2.0'
+implementation 'com.loplat:placeengine:2.1.2.0'
 ```
 <br>
 
